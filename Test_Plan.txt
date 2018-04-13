@@ -1,7 +1,0 @@
-Test Plan:
-
-Are there any runtime error?
-Are there any io exceptions?
-Is the tkinter GUI window running properly?
-Are all the widgets in the GUI properly alignes as wanted?
-What are the errors and how can they be resolved?
